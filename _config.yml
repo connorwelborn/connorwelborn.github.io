@@ -1,6 +1,0 @@
-theme: jekyll-theme-cayman
-title: Connor Welborn
-description: Wishmap Portfolio
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
